@@ -42,4 +42,3 @@ Adding Attention further boosts performance and interpretability.
 
 Trade-off: Higher accuracy comes with increased training time and parameters.
 
-👥
